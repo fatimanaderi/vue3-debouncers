@@ -1,6 +1,6 @@
 # vue3-debouncers
 
-This template should help get you started developing with Vue 3 in Vite.
+if you want to know how to handle input v-model and mouse events in vue3, you should probably read this repo.
 
 ## Recommended IDE Setup
 
