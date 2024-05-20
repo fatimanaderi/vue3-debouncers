@@ -1,10 +1,10 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import InputDebouncer from './components/InputDebouncer.vue'
+</script>
 
 <template>
   <div>
-    <div>
-      <input type="text" />
-    </div>
+    <InputDebouncer />
     <div>
       <button>click me!</button>
     </div>
